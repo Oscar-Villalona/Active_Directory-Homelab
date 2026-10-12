@@ -2,7 +2,7 @@
 
 Laboratorio virtualizado de Active Directory construido desde cero para practicar administración de Windows Server, telemetría y, más adelante, detección de ataques desde la perspectiva de un analista SOC.
 
-**Autora:** Astra · **Inicio del proyecto:** 2026-10-12 · **Estado:** Fase 1 completada (dominio funcionando)
+**Autor:** Astra · **Inicio del proyecto:** 2026-10-12 · **Estado:** Fase 1 completada (dominio funcionando)
 
 ---
 
